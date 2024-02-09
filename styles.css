@@ -17,4 +17,14 @@ div {
   font-family: "Lucida Handwriting", "Brush Script MT", cursive;
 }
 
+button {
+  padding: 15%;
+  font-weight: bold
+  color: #FFFDD0;
+}
+
+button:hover {
+  color: #EFDC75;
+}
+
 
