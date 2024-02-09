@@ -18,9 +18,9 @@ div {
 }
 
 button {
-  padding: 5%;
-  font-weight: bold
-  background-color: #FFFDD0;
+  padding: 2%;
+  font-weight: bold;
+  background-color: #E8DCB8;
 }
 
 button:hover {
