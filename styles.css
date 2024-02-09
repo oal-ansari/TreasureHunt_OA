@@ -2,10 +2,13 @@ body {
   background-image: url("images/pagebackgroundimage.jpg");
   background-size: cover;
 }
+
 .twitterPost {
   margin: 0 auto;
 }
+
 div {
   margin: 0 auto;
+  text-align: center;
 }
 
