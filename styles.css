@@ -18,13 +18,13 @@ div {
 }
 
 button {
-  padding: 15%;
+  padding: 5%;
   font-weight: bold
-  color: #FFFDD0;
+  background-color: #FFFDD0;
 }
 
 button:hover {
-  color: #EFDC75;
+  background-color: #EFDC75;
 }
 
 
