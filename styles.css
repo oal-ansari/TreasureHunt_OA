@@ -17,6 +17,11 @@ div {
   font-family: "Lucida Handwriting", "Brush Script MT", cursive;
 }
 
+.media{
+  font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+}
+
+
 button {
   padding: 2%;
   font-weight: bold;
