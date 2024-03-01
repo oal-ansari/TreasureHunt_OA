@@ -1,5 +1,14 @@
-fetch ('https://codecyprus.org/th/api/list')
-  .then(treasureHunts=>treasureHunts.json());
+API_URL = "https://codecyprus.org/th/api/";
+
+fetch (API_URL + "list")
+  .then(response=>response.json())
+  .then(responseObject=>{
+    treasureHunts = responseObject.treasureHunts;
+    for (let i; i < treasureHunts.length; i++){
+      
+    }
+  });
+
 
 /list = https://codecyprus.org/th/api/list;
 /start = https://codecyprus.org/th/api/start; 
